@@ -1,6 +1,6 @@
 #include <HX711.h>
 
-HX711 scale;  // Initializes library functions.
+HX711 scale;  // Initializes library functions yes.
 
 const int LOADCELL_DOUT_PIN = 2;          //Remember these are ESP GPIO pins, these might not be the pins labeled on the board.
 const int LOADCELL_SCK_PIN = 3;
